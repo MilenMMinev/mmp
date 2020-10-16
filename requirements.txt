@@ -1,0 +1,5 @@
+madmom
+numpy
+pyrubberband
+scipy
+librosa
